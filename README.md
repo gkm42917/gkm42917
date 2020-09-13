@@ -4,13 +4,13 @@
 ## Interest
 * not yet
 
-## learning
+## Learning
 * C++
 * python
 * etc.
 
 ## Contact
-* github.com/gkm42917
+* https://github.com/gkm42917
 * whishingdove@gmail.com
 
 <!--

@@ -1,4 +1,17 @@
-### Hi there 👋
+# whitedove428
+* longing for keen insight
+
+## Interest
+* not yet
+
+## learning
+* C++
+* python
+* etc.
+
+## Contact
+* github.com/gkm42917
+* whishingdove@gmail.com
 
 <!--
 **gkm42917/gkm42917** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

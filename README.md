@@ -2,7 +2,7 @@
 * longing for keen insight
 
 ## Interest
-* not yet
+* hardware
 
 ## Learning
 * C++

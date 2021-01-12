@@ -1,17 +1,17 @@
 # whitedove428
-* longing for keen insight
+Hi! Nice to meet you:) I'm fine thank you and you?
 
 ## Interest
-* hardware
+* semiconductor
+* artificial intelligence
+* how to make money
 
 ## Learning
-* C++
-* python
-* etc.
+* 🤔
 
 ## Contact
 * https://github.com/gkm42917
-* whishingdove@gmail.com
+* whishingdove at gmail.com
 
 <!--
 **gkm42917/gkm42917** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
